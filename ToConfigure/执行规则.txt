@@ -1,0 +1,8 @@
+1.按模块运行
+    pytest d:\py\lx_pytest\CaseOccApi\test_MemberCenter.py --html=D:\py\lx_pytest\TestReport\TestReport.html
+2.按项目运行
+    pytest d:\py\lx_pytest\CaseOccApi --html=D:\py\lx_pytest\TestReport\TestReport.html
+3.按优先级运行
+    pytest d:\py\lx_pytest\CaseOccApi -m level_2 --html=D:\py\lx_pytest\TestReport\TestReport.html
+4.平行测试
+    pytest -n 4 d:\py\lx_pytest\CaseOccApi --html=D:\py\lx_pytest\TestReport\TestReport.html
