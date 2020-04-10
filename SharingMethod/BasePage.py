@@ -9,10 +9,11 @@ class BasePage(object):
     """
     selenium的二次封装
     """
-    def __init__(self, driver, out_time=30):
+
+    def __init__(self, driver, out_time=15):
 
         self.driver = driver
-        self.outTime = out_time
+        self.out_time = out_time
         self.byDic = {
             'id': By.ID,
             'name': By.NAME,
@@ -39,11 +40,9 @@ class BasePage(object):
         :return:
         """
         try:
-            et =  WebDriverWait(self.driver, self.outTime).until(lambda x: x.find_element(by, element))
+            et = WebDriverWait(self.driver, self.out_time).until(lambda x: x.find_element(by, element))
         except Exception as e:
-            print('定位：{0}\n没有找到元素:{1}'.format(by, element))
-            self.driver.quit()
-            raise e
+            print('异常：{0}定位：{1}\n没有找到元素:{2}'.format(e, by, element))
         else:
             return et
 
@@ -56,49 +55,76 @@ class BasePage(object):
         """
         if by.lower() in self.byDic:
             try:
-                print(self.byDic[by])
-                et = WebDriverWait(self.driver, self.outTime).until(ec.element_to_be_clickable((self.byDic[by], element)))
-                et.click()
-            except Exception:
-                print('定位：{0}\n没有找到元素:{1}'.format(by, element))
-                return False
-            return et
+                et = WebDriverWait(self.driver, self.out_time).until(ec.element_to_be_clickable((self.byDic[by], element)))
+            except Exception as e:
+                print('异常：{0}定位：{1}\n没有找到元素:{2}'.format(e, by, element))
+            else:
+                return et
+
+    def frame_to_be_available_and_switch_to_it(self, frame):
+        """
+        判断该frame是否可以switch进去，如果可以的话，返回True并且switch进去，否则返回False
+        :param frame: 内嵌网页
+        :return:
+        """
+        try:
+            et = WebDriverWait(self.driver, self.out_time).until(
+                ec.frame_to_be_available_and_switch_to_it(frame))
+        except Exception as e:
+            print('异常：{0}定位：{1}'.format(e, frame))
         else:
-            print('定位：{0}\n没有找到元素:{1}'.format(by, element))
+            return et
+
+    def element_to_be_selected(self, element):
+        """
+        判断该frame是否可以switch进去，如果可以的话，返回True并且switch进去，否则返回False
+        :param element: 元素
+        :return:
+        """
+        try:
+            et = WebDriverWait(self.driver, self.out_time).until(
+                ec.element_to_be_selected(element))
+        except Exception as e:
+            print('异常：{0}定位：{1}'.format(e, element))
+        else:
+            return et
+
+    def current_window_handle(self):
+        """
+        获取当前窗口句柄
+        :return:
+        """
+        current_window = self.driver.current_window_handle()
+        return current_window
+
+    def window_handles(self):
+        """
+        获取所有窗口句柄
+        :return:
+        """
+        all_windows = self.driver.window_handles()
+        return all_windows
 
     def get_text(self, by, element):
         """获取元素的文本信息"""
         et = self.find_element(by, element)
         return et.text
 
-
     def click(self, by, element):
         """点击"""
-        try:
-            et = self.find_element(by, element)
-            if et:
-                et.click()
-        except:
-            print('定位：{0}\n没有找到元素:{1}'.format(by, element))
-
+        et = self.element_to_be_clickable(by, element)
+        et.click()
 
     def send_keys(self, by, element, text):
         """输入数据，上传数据"""
-        et = self.find_element(by, element)
-        if et:
-            et.clear()
-            et.send_keys(text)
-        else:
-            print('定位：{0}\n没有找到元素:{1}'.format(by, element))
+        et = self.element_to_be_clickable(by, element)
+        et.clear()
+        et.send_keys(text)
 
     def clear(self, by, element):
         """输入数据，上传数据"""
-        et = self.find_element(by, element)
-        if et:
-            et.clear()
-        else:
-            print('定位：{0}\n没有找到元素:{1}'.format(by, element))
-
+        et = self.element_to_be_clickable(by, element)
+        et.clear()
 
     def refresh(self):
         """刷新浏览器"""
@@ -107,12 +133,13 @@ class BasePage(object):
     def quit(self):
         self.driver.quit()
 
+
 if __name__ == '__main__':
     driver = webdriver.Chrome()
-    a = BasePage(driver)
+    a = BasePage(driver, 10)
     a.open_url('http://xb.rfidstar.cn/k-occ/views/login.jsp')
-    a.send_keys('name', 'loginName','13666666666' )
+    a.send_keys('name', 'loginName', '13666666666')
     a.send_keys('name', 'loginPassWord', '666666')
-    a.element_to_be_clickable('id', 'loginBtn')
+    a.click('id', 'loginBtn')
     cc = a.get_text('id', 'user_name')
     print(cc)

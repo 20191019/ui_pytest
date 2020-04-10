@@ -5,11 +5,11 @@ from SharingMethod import config
 
 class LoginPage(BasePage):
     # 获取配置文件数据
-    cf = config.Config(r'..\config.ini', 'k-occ_test')
-    url = cf.get_config('url')
-    user_name1, user_name2, user_name3 = cf.split_txt('user_name')
-    password1, password2, password3 = cf.split_txt('password')
-    login_button1, login_button2 = cf.split_txt('login_button')
+    cf = config.Config(r'..\config.ini', '全局登录配置')
+    url = cf.get_config('网址')
+    user_name1, user_name2, user_name3 = cf.split_txt('用户名输入框')
+    password1, password2, password3 = cf.split_txt('密码输入框')
+    login_button1, login_button2 = cf.split_txt('登录按钮')
 
     def login(self, usr_name, pass_word):
         """
