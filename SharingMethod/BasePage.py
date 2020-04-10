@@ -9,10 +9,10 @@ class BasePage(object):
     """
     selenium的二次封装
     """
-    def __init__(self, driver, outTime=30):
+    def __init__(self, driver, out_time=30):
 
         self.driver = driver
-        self.outTime = outTime
+        self.outTime = out_time
         self.byDic = {
             'id': By.ID,
             'name': By.NAME,
@@ -30,7 +30,6 @@ class BasePage(object):
         self.driver.get(url)
         self.driver.maximize_window()
 
-
     def find_element(self, by, element):
         """
         封装显性等待
@@ -40,7 +39,7 @@ class BasePage(object):
         :return:
         """
         try:
-            et =  WebDriverWait(self.driver, self.outTime).until(lambda x : x.find_element(by, element))
+            et =  WebDriverWait(self.driver, self.outTime).until(lambda x: x.find_element(by, element))
         except Exception as e:
             print('定位：{0}\n没有找到元素:{1}'.format(by, element))
             self.driver.quit()

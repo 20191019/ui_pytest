@@ -6,7 +6,7 @@ from py._xmlgen import html
 import os
 _driver = None
 
-print('1' * 50)
+
 @pytest.mark.optionalhook
 def pytest_html_results_summary(prefix):
     prefix.extend([html.p("所属部门: xx测试中心")])
@@ -49,7 +49,7 @@ def pytest_runtest_makereport(item):
     outcome = yield
     report = outcome.get_result()
     extra = getattr(report, 'extra', [])
-    #如果你生成的是web ui自动化测试，请把下面的代码注释打开，否则无法生成错误截图
+    # 如果你生成的是web ui自动化测试，请把下面的代码注释打开，否则无法生成错误截图
     if report.when == 'call' or report.when == "setup":
         xfail = hasattr(report, 'wasxfail')
         if (report.skipped and xfail) or (report.failed and not xfail):
@@ -79,7 +79,7 @@ def pytest_html_results_table_row(report, cells):
     cells.insert(1, html.td(report.description))
 
 
-@pytest.fixture(scope='session', autouse=True)#声明为fixture(测试准备/清理)方法
+@pytest.fixture(scope='session', autouse=True)  # 声明为fixture(测试准备/清理)方法
 def driver():
     """
     用于web自动化的错误用例截屏
