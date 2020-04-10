@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/SharingMethod/BasePage.py" line="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42c0db72-5c5e-4842-bc21-b7f4201c5c8f" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.byDic</find>
+      <find>NewCommodityClassification</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>NewCommodityClassificationPage</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SharingMethod/__init__.py" />
+        <option value="$PROJECT_DIR$/CaseOcc/__init__.py" />
+        <option value="$PROJECT_DIR$/CaseOcc/conftest.py" />
+        <option value="$PROJECT_DIR$/CaseOcc/test_lz.py" />
+        <option value="$PROJECT_DIR$/SharingMethod/readconfig.py" />
+        <option value="$PROJECT_DIR$/DataLayer/LoginData.py" />
+        <option value="$PROJECT_DIR$/ToConfigure/case.ini" />
+        <option value="$PROJECT_DIR$/ToConfigure/1.py" />
+        <option value="$PROJECT_DIR$/ToConfigure/2.py" />
+        <option value="$PROJECT_DIR$/ToConfigure/mm.py" />
+        <option value="$PROJECT_DIR$/ObjectLayer/test_LoginPage.py" />
+        <option value="$PROJECT_DIR$/LogicalLayer/Lg.py" />
+        <option value="$PROJECT_DIR$/ToConfigure/_init_.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/LogicalLayer/ww.py" />
+        <option value="$PROJECT_DIR$/BusinessLayer/test_111.py" />
+        <option value="$PROJECT_DIR$/conftest111.py" />
+        <option value="$PROJECT_DIR$/LogicalLayer/conftest.py" />
+        <option value="$PROJECT_DIR$/LogicalLayer/test_01.py" />
+        <option value="$PROJECT_DIR$/ObjectLayer/BasePage.py" />
+        <option value="$PROJECT_DIR$/ToConfigure/ff.py" />
+        <option value="$PROJECT_DIR$/ObjectLayer/test_login.py" />
+        <option value="$PROJECT_DIR$/ObjectLayer/__init__.py" />
+        <option value="$PROJECT_DIR$/DataLayer/conftest.py" />
+        <option value="$PROJECT_DIR$/ObjectLayer/ShopClassification.py" />
+        <option value="$PROJECT_DIR$/ObjectLayer/ShopClassificationPage.py" />
+        <option value="$PROJECT_DIR$/DataLayer/LoginData.ini" />
+        <option value="$PROJECT_DIR$/DataLayer/ShopData.ini" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/LogicLayer/shop.py" />
+        <option value="$PROJECT_DIR$/BusinessLayer/test_lz.py" />
+        <option value="$PROJECT_DIR$/DataLayer/test_login.py" />
+        <option value="$PROJECT_DIR$/DataLayer/ShopTestData.ini" />
+        <option value="$PROJECT_DIR$/ObjectLayer/LoginPage.py" />
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="$PROJECT_DIR$/BusinessLayer/test_shop.py" />
+        <option value="$PROJECT_DIR$/SharingMethod/config.py" />
+        <option value="$PROJECT_DIR$/BusinessLayer/conftest.py" />
+        <option value="$PROJECT_DIR$/LogicLayer/Shop.py" />
+        <option value="$PROJECT_DIR$/ObjectLayer/ShopElementData.ini" />
+        <option value="$PROJECT_DIR$/ObjectLayer/ShopPage.py" />
+        <option value="$PROJECT_DIR$/SharingMethod/BasePage.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1935" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ObjectLayer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/BusinessLayer/.pytest_cache" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\py1\ui_pytest\ObjectLayer" />
+      <recent name="D:\py1\ui_pytest\DataLayer" />
+      <recent name="D:\py1\ui_pytest\SharingMethod" />
+      <recent name="D:\py1\ui_pytest" />
+      <recent name="D:\py\ui_pytest\BusinessLayer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\py1\ui_pytest\ObjectLayer" />
+      <recent name="D:\py1\ui_pytest\DataLayer" />
+      <recent name="D:\py1\ui_pytest\LogicalLayer" />
+      <recent name="D:\py1\ui_pytest" />
+      <recent name="D:\py1\ui_pytest\SharingMethod" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ShopPage">
+    <configuration name="BasePage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ui_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SharingMethod" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SharingMethod/BasePage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Shop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ui_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LogicLayer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogicLayer/Shop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ShopPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ui_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ObjectLayer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjectLayer/ShopPage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ui_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SharingMethod" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SharingMethod/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_shop.TestCommoditylassification.test_new_product_category_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ui_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BusinessLayer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_shop.TestCommoditylassification.test_new_product_category_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ShopPage" />
+        <item itemvalue="Python.BasePage" />
+        <item itemvalue="Python.Shop" />
+        <item itemvalue="Python tests.pytest for test_shop.TestCommoditylassification.test_new_product_category_1" />
+        <item itemvalue="Python.config" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42c0db72-5c5e-4842-bc21-b7f4201c5c8f" name="Default Changelist" comment="" />
+      <created>1584697595828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584697595828</updated>
+      <workItem from="1584697597240" duration="2327000" />
+      <workItem from="1584959933978" duration="34000" />
+      <workItem from="1585109927684" duration="2415000" />
+      <workItem from="1585636834939" duration="4418000" />
+      <workItem from="1585657330292" duration="21389000" />
+      <workItem from="1585961499836" duration="22622000" />
+      <workItem from="1586047129617" duration="1932000" />
+      <workItem from="1586050821165" duration="22590000" />
+      <workItem from="1586267349635" duration="3403000" />
+      <workItem from="1586345663026" duration="9554000" />
+      <workItem from="1586436796449" duration="1853000" />
+      <workItem from="1586441977734" duration="2206000" />
+      <workItem from="1586444238068" duration="547000" />
+      <workItem from="1586520548201" duration="298000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1586442656755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586442656755</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_shop_py - 2020.04.06 at 11h 28m 10s.xml">
+      <configuration name="pytest in test_shop.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_shop_py - 2020.04.06 at 11h 33m 33s.xml">
+      <configuration name="pytest in test_shop.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_shop_py - 2020.04.06 at 11h 37m 46s.xml">
+      <configuration name="pytest in test_shop.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_shop_TestCommoditylassification_test_modify_commodity_classification_1 - 2020.04.07 at 21h 51m 00s.xml">
+      <configuration name="pytest for test_shop.TestCommoditylassification.test_modify_commodity_classification_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_shop_TestCommoditylassification_test_new_product_category_1 - 2020.04.07 at 21h 56m 12s.xml">
+      <configuration name="pytest for test_shop.TestCommoditylassification.test_new_product_category_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_shop_TestCommoditylassification_test_new_product_category_1 - 2020.04.07 at 21h 56m 59s.xml">
+      <configuration name="pytest for test_shop.TestCommoditylassification.test_new_product_category_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_shop_TestCommoditylassification_test_new_product_category_1 - 2020.04.07 at 21h 57m 39s.xml">
+      <configuration name="pytest for test_shop.TestCommoditylassification.test_new_product_category_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_shop_TestCommoditylassification_test_new_product_category_1 - 2020.04.07 at 21h 58m 31s.xml">
+      <configuration name="pytest for test_shop.TestCommoditylassification.test_new_product_category_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_shop_TestCommoditylassification_test_new_product_category_1 - 2020.04.07 at 22h 00m 28s.xml">
+      <configuration name="pytest for test_shop.TestCommoditylassification.test_new_product_category_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_shop_TestCommoditylassification_test_new_product_category_1 - 2020.04.07 at 22h 03m 28s.xml">
+      <configuration name="pytest for test_shop.TestCommoditylassification.test_new_product_category_1" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="95595000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1816354" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32775453" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32357043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="5" side_tool="true" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_111_TestBs.coverage" NAME="pytest for test_111.TestBs Coverage Results" MODIFIED="1585835643220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BusinessLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_ww_TestBs.coverage" NAME="pytest for ww.TestBs Coverage Results" MODIFIED="1585967405718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogicalLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$1.coverage" NAME="1 Coverage Results" MODIFIED="1585753960901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToConfigure" />
+    <SUITE FILE_PATH="coverage/ui_pytest$mm.coverage" NAME="mm Coverage Results" MODIFIED="1585834296324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToConfigure" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_lz_TestLogin.coverage" NAME="pytest for test_lz.TestLogin Coverage Results" MODIFIED="1585964402576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BusinessLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_01_test_bs.coverage" NAME="pytest for test_01.test_bs Coverage Results" MODIFIED="1585968985813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogicalLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_login_TestLogin_test_login_002.coverage" NAME="pytest for test_login.TestLogin.test_login_002 Coverage Results" MODIFIED="1586012366526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_login_TestLogin_test_login_001.coverage" NAME="pytest for test_login.TestLogin.test_login_001 Coverage Results" MODIFIED="1586053354266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_in_test_LoginPage_py.coverage" NAME="pytest in test_LoginPage.py Coverage Results" MODIFIED="1585784650396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ObjectLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$BasePage.coverage" NAME="BasePage Coverage Results" MODIFIED="1586356525228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SharingMethod" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_ww_TestBs_test_bs.coverage" NAME="pytest for ww.TestBs.test_bs Coverage Results" MODIFIED="1585964202706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogicalLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$ff.coverage" NAME="ff Coverage Results" MODIFIED="1585992573872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToConfigure" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_in_test_shop_py.coverage" NAME="pytest in test_shop.py Coverage Results" MODIFIED="1586144264136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BusinessLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$config.coverage" NAME="config Coverage Results" MODIFIED="1586267702384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SharingMethod" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_lz_TestLogin_test_login_001.coverage" NAME="pytest for test_lz.TestLogin.test_login_001 Coverage Results" MODIFIED="1585785145807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BusinessLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_111_TestLogin_test_login_001.coverage" NAME="pytest for test_111.TestLogin.test_login_001 Coverage Results" MODIFIED="1585834952776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BusinessLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_shop_TestCommoditylassification_test_new_product_category_1.coverage" NAME="pytest for test_shop.TestCommoditylassification.test_new_product_category_1 Coverage Results" MODIFIED="1586268168433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BusinessLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_in_ww_py.coverage" NAME="pytest in test_01.py Coverage Results" MODIFIED="1585976634349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogicalLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$LoginPage.coverage" NAME="LoginPage Coverage Results" MODIFIED="1586144227802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ObjectLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$Shop.coverage" NAME="Shop Coverage Results" MODIFIED="1586346280879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogicLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$te_01.coverage" NAME="te_01 Coverage Results" MODIFIED="1585967610630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogicalLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_01_TestBs_test_bs.coverage" NAME="pytest for test_01.TestBs.test_bs Coverage Results" MODIFIED="1585967468052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogicalLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$ShopPage.coverage" NAME="ShopPage Coverage Results" MODIFIED="1586356664172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ObjectLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1585833138805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BusinessLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_in_test_login_py.coverage" NAME="pytest in test_login.py Coverage Results" MODIFIED="1586053386937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_01_Test_01.coverage" NAME="pytest for test_01.Test_01 Coverage Results" MODIFIED="1585976563071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogicalLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_login_TestLogin.coverage" NAME="pytest for test_login.TestLogin Coverage Results" MODIFIED="1586051157610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_shop_TestCommoditylassification_test_modify_commodity_classification_1.coverage" NAME="pytest for test_shop.TestCommoditylassification.test_modify_commodity_classification_1 Coverage Results" MODIFIED="1586267458042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BusinessLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$Lg.coverage" NAME="Lg Coverage Results" MODIFIED="1585833294144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogicalLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_for_test_01_Test_01_test_login.coverage" NAME="pytest for test_01.Test_01.test_login Coverage Results" MODIFIED="1585976209094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LogicalLayer" />
+    <SUITE FILE_PATH="coverage/ui_pytest$pytest_in_test_111_py.coverage" NAME="pytest in test_111.py Coverage Results" MODIFIED="1585835598367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BusinessLayer" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LogicLayer/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SharingMethod/ShengParameter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SharingMethod/readconfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLayer/LoginData.py" />
+    <entry file="file://$PROJECT_DIR$/SharingMethod/conftest.py" />
+    <entry file="file://$PROJECT_DIR$/ToConfigure/mm.py" />
+    <entry file="file://$PROJECT_DIR$/ToConfigure/_init_.py" />
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/py/_path/local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="700" selection-start-line="700" selection-end-line="700" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/_pytest/capture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="426" selection-start-line="426" selection-end-line="426" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/_pytest/skipping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/_pytest/mark/evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/_pytest/nodes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="406" column="4" selection-start-line="406" selection-start-column="4" selection-end-line="406" selection-end-column="4" />
+          <folding>
+            <element signature="e#788#849#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicalLayer/conftest.py" />
+    <entry file="file://$PROJECT_DIR$/ToConfigure/ff.py" />
+    <entry file="file://$PROJECT_DIR$/ToConfigure/config.py" />
+    <entry file="file://$PROJECT_DIR$/BusinessLayer/test_111.py" />
+    <entry file="file://$PROJECT_DIR$/LogicalLayer/Lg.py" />
+    <entry file="file://$PROJECT_DIR$/LogicalLayer/test_01.py" />
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/_pytest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/pluggy/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/pluggy/hooks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/_pytest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="269" selection-start-line="269" selection-end-line="269" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/pluggy/callers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SharingMethod/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/_pytest/assertion/rewrite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectLayer/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/_pytest/fixtures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1113" column="60" lean-forward="true" selection-start-line="1111" selection-start-column="5" selection-end-line="1113" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectLayer/conftest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="1011" selection-start-line="1011" selection-end-line="1011" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLayer/LoginTestData.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="94" column="22" lean-forward="true" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+          <folding>
+            <element signature="e#23#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/_pytest/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="457" selection-start-line="457" selection-end-line="457" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLayer/ShopTestData.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SharingMethod/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BusinessLayer/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLayer/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataLayer/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BusinessLayer/test_shop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#23#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectLayer/LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicLayer/Shop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="70" column="27" lean-forward="true" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+          <folding>
+            <element signature="e#875#1201#0" />
+            <element signature="e#1250#1479#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium/common/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4002" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectLayer/ShopPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SharingMethod/BasePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="55" column="16" lean-forward="true" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectLayer/ShopElementData.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
