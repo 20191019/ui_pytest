@@ -2,9 +2,8 @@
 from SharingMethod.BasePage import BasePage
 from SharingMethod.config import Config
 
-"""
-导航:店铺
-"""
+
+# 店铺
 class ShopNavigationPage(BasePage):
     cf = Config(r'D:\py1\ui_pytest\ObjectLayer\ShopElementData.ini', 'Navigation')
     shop1, shop2 = cf.split_txt('shop')  # 店铺
@@ -24,10 +23,7 @@ class ShopNavigationPage(BasePage):
         self.click(ShopNavigationPage.commodity_information1, ShopNavigationPage.commodity_information2)
 
 
-
-"""
-内容:商品分类
-"""
+# 商品分类
 class NewCommodityClassificationPage(ShopNavigationPage):
     cf = Config(r'D:\py1\ui_pytest\ObjectLayer\ShopElementData.ini', 'CommodityClassification')
     # 1.全部分类

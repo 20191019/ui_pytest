@@ -32,6 +32,6 @@ class Config(object):
 
 
 if __name__ == '__main__':
-    cf = Config(r'D:\py1\ui_pytest\ObjectLayer\ShopElementData.ini', 'Navigation')
-    user_name1, user_name2 = cf.split_txt('shop')
+    cf = Config(r'..\DataLayer\ShopElementData.ini', '商品分类')
+    user_name1, user_name2 = cf.split_txt('分类_厨具')
     print(user_name1, user_name2)
